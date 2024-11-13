@@ -1,6 +1,6 @@
-# ActivityClassifier: Human Activity Recognition Pipeline
+# Activity-Classifier: Human Activity Recognition Pipeline
 
-**ActivityClassifier** is a comprehensive pipeline for human activity recognition using data collected from wearable sensors. The project involves data preparation, feature engineering, and classification to identify distinct human activities. The solution is built with Python and integrates advanced data processing, feature extraction, and machine learning techniques.
+**Activity-Classifier** is a comprehensive pipeline for human activity recognition using data collected from wearable sensors. The project involves data preparation, feature engineering, and classification to identify distinct human activities. The solution is built with Python and integrates advanced data processing, feature extraction, and machine learning techniques.
 
 ---
 
